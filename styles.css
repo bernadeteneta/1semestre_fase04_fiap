@@ -1,0 +1,35 @@
+.light-green {
+  color: #3fff8c;
+}
+
+.dark-blue {
+  color: #4c49d4;
+}
+
+.light-pink {
+  color: #f019f4;
+}
+
+.dark-yellow {
+  color: #a7b50c;
+}
+
+.light-blue {
+  color: #0de8f5;
+}
+
+.light-grey {
+  color: #d9d9d9;
+}
+
+.header-grey {
+  background-color: #393c3f;
+}
+
+.input-bg-grey {
+  background-color: #322f2f;
+}
+
+.underline-hover:hover {
+  text-decoration: underline;
+}
